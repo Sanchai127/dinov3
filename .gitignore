@@ -8,6 +8,29 @@ dist/
 
 **/notebooks
 
+*.png
+*.jpg
+*.jpeg
+
+
+# Checkpoint files
+*.ckpt
+*.pth
+*.pt
+*.model
+*.bin
+*.safetensors
+*.ckpt.index
+*.index
+*.meta
+*.data-00000-of-00001
+*.tar
+*.tar.gz
+*.zip
+*.h5
+*.hdf5
+*.pb
+
 # Ignore shell scripts
 *.sh
 
